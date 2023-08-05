@@ -1,0 +1,23 @@
+{
+  "name": "js-data-to-csv",
+  "version": "1.2.0",
+  "description": "Exporting js data to a csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XerDemo/js-data-to-csv.git"
+  },
+  "author": "liangxiaodong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XerDemo/js-data-to-csv/issues"
+  },
+  "homepage": "https://github.com/XerDemo/js-data-to-csv#readme",
+  "private": false,
+  "module": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["csv", "download-to-csv"]
+}
